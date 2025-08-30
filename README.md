@@ -1,0 +1,2 @@
+# Create-a-predictive-model-using-machine-learning-algorithms-to-estimate-used-car-prices-in-the-UAE-
+Create a predictive model using machine learning algorithms to estimate used car prices in the UAE, taking into account variables such as location, make, model, body type, fuel type, and performance. This model will enable accurate price predictions, helping buyers and sellers make informed decisions.
